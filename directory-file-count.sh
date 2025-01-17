@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-#Assignment 2 (basic): Directory File Count
+#Assignment 2 (basic): Directory file count
 
 echo "enter the directory path"
 
