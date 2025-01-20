@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "enter the directory (use logs1 directory located at $HOME and change the permission)"
+echo "enter the directory (use any directory containing .txt )"
 read directory
 
 if cd "$directory"; then
