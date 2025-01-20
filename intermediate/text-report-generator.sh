@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "use text-report-gen.log file in current dir as argument"
 if [ ! -f "$1" ]; then
     echo "Please provide a log file"
     exit 1

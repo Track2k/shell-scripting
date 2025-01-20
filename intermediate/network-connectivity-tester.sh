@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Provide the input file"
+echo "Provide the input file use network-tester-ips.txt in current dir"
 read input_file
 
 if [ ! -f "$input_file" ]; then
