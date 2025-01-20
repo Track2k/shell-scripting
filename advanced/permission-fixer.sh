@@ -1,8 +1,7 @@
 #!/bin/bash
 
-echo "enter the directory"
+echo "enter the directory (use logs1 directory located at $HOME and change the permission)"
 read directory
-
 
 if cd "$directory"; then
 

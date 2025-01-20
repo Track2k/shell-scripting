@@ -1,0 +1,8 @@
+2025-01-20 15:13:26 - Warning: Disk usage on efivarfs is at 63%
+Mon 20 Jan 2025 03:15:17 PM IST - Warning: disk usage on efivarfs is at 63%
+Mon 20 Jan 2025 03:15:29 PM IST - Warning: disk usage on /dev/mapper/ubuntu--vg-ubuntu--lv is at 4%
+Mon 20 Jan 2025 03:15:29 PM IST - Warning: disk usage on tmpfs is at 2%
+Mon 20 Jan 2025 03:15:29 PM IST - Warning: disk usage on efivarfs is at 63%
+Mon 20 Jan 2025 03:15:29 PM IST - Warning: disk usage on /dev/nvme0n1p2 is at 11%
+Mon 20 Jan 2025 03:15:56 PM IST - Warning: disk usage on efivarfs is at 63%
+Mon 20 Jan 2025 03:15:56 PM IST - Warning: disk usage on /dev/nvme0n1p2 is at 11%

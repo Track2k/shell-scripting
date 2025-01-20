@@ -1,10 +1,6 @@
 #!/bin/bash
 
-
-#Assignment 2 (basic): Directory file count
-
 echo "enter the directory path"
-
 
 read dir_input
 
@@ -15,7 +11,6 @@ then
 fi
 
 files=$(find "$dir_input" -maxdepth 1 -type f | wc -l)
-
 
 dir=$(find "$dir_input" -maxdepth 1 -type d | wc -l)
 

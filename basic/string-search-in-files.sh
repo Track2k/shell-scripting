@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Enter the directory path"
+echo "Enter the directory path (use the logs1 directory which is in the home path or try on a test dir by creating it)"
 read dir_path
 
 if [ ! -d "$dir_path" ]
@@ -11,7 +11,6 @@ fi
 
 echo "Enter the string"
 read search
-
 
 grep -rn "$dir_path" -e "$search" --include="*.log"
 
