@@ -16,7 +16,7 @@ root
 
 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/Track2k/shell-scripting.git
 ```
 
 2. Set up execution permissions
