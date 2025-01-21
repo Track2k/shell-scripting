@@ -4,7 +4,7 @@ if [ ! -d ~/logs1 ]; then
     echo "directory not present, creating....."
     mkdir ~/logs1
 fi 
-    echo "Enter the file path"
+    echo "Enter the file path.. (to test use ./duplicate-line-remover.txt)"
 
     read file_path
 
